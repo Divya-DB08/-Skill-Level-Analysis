@@ -1,6 +1,7 @@
 #  Basic and intermediate Power bi training participant data
 
 Dashboard screenshot link : https://drive.google.com/file/d/1GEHwtZW-PswwYRRWrGeaLAV8A9Ya807y/view?usp=drive_link
+
 Pbix link : https://drive.google.com/file/d/1OgS1jpqPmz9YBKfbi7QCGhN4QHU903qq/view?usp=drive_link
 
 This image depicts a Power BI dashboard designed to analyze data for basic and intermediate-level job trainees. It focuses on attendance, skill levels, and demographic distributions to provide a comprehensive overview of trainee performance and characteristics.
