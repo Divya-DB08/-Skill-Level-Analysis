@@ -1,33 +1,29 @@
-# Skill-Level-Analysis
+#  Basic and intermediate Power bi training participant data
 
+Dashboard screenshot link : https://drive.google.com/file/d/1GEHwtZW-PswwYRRWrGeaLAV8A9Ya807y/view?usp=drive_link
+Pbix link : https://drive.google.com/file/d/1OgS1jpqPmz9YBKfbi7QCGhN4QHU903qq/view?usp=drive_link
 
+This image depicts a Power BI dashboard designed to analyze data for basic and intermediate-level job trainees. It focuses on attendance, skill levels, and demographic distributions to provide a comprehensive overview of trainee performance and characteristics.
 
+Key Metrics and Filters:
 
-This image presents a dashboard for analyzing the skill level and attendance patterns of job trainees, likely at a basic to intermediate level. It's designed to provide a quick overview of key performance indicators and demographic breakdowns. Let's break down the components:
+Total Enrolled (38): Indicates the total number of trainees in the program.
+Present (33) & Absent (5): Shows the daily/current status of attendance, giving a quick view of presence.
+Attendance Rate (86.84%): Represents the average attendance rate, calculated from the present and absent data.
+Filters: The dashboard includes filters for Model, Senior Manager, Team, and Job Level, enabling users to drill down into specific segments of the trainee population for more granular analysis.
+Visualizations and their Insights:
 
-Key Metrics:
+Team-wise Attendance (Bar Chart): This chart compares attendance across different teams, highlighting variations in presence and potentially indicating teams with higher or lower engagement levels.
+Manager-wise Attendance (Bar Chart): This visualization breaks down attendance by Senior Manager, allowing for the assessment of attendance patterns under different management styles or within different managerial responsibilities.
+Gender-wise Distribution (Pie Chart): Displays the gender breakdown of the trainees, providing insights into the program's diversity.
+Level-wise Distribution (Treemap): This visualization shows the distribution of trainees across different job levels (Analyst, Executive, Senior Analyst, Senior Executive, and others). The size of the boxes indicates the proportion of trainees at each level, offering a quick understanding of the skill level composition of the trainee group.
+Analysis and Interpretation Potential:
 
-Total Enrolled (38): The total number of trainees in the program. This provides the baseline for understanding the scope of the data.
-Present (33) and Absent (5): A simple count of present and absent trainees. This is crucial for tracking attendance and identifying potential issues with trainee engagement or retention.
-Attendance Rate (86.84%): The average attendance rate, calculated from the present and absent numbers. This provides a high-level view of overall attendance.
-Breakdowns and Filters:
+This dashboard allows for various analyses related to basic and intermediate job trainees:
 
-Model Filter: Allows filtering of data by different "Models" (categories or batches of trainees). This enables comparison of performance across different groups.
-Senior Manager Filter: Enables analysis of trainees based on the Senior Manager responsible for them. This allows for the evaluation of training effectiveness across different managers.
-Team Filter: Provides the ability to analyze data by specific teams, offering insights into team dynamics and performance.
-Job Level Filter: Allows filtering based on the job level of the trainees (e.g., Analyst, Executive, Senior Analyst, Senior Executive). This helps in understanding skill and attendance patterns at different levels.
-Visualizations:
-
-Team-wise Attendance (Bar Chart): Compares the number of present and absent trainees across different teams. This allows for easy identification of teams with high or low attendance rates.
-Manager-wise Attendance (Bar Chart): Shows the number of trainees under each manager, along with their attendance status. This helps in evaluating manager-wise performance in terms of trainee engagement and attendance.
-Gender-wise Distribution (Pie Chart): Displays the proportion of male and female trainees. This provides insights into the gender balance of the trainee program.
-Level-wise Distribution (Treemap): Shows the distribution of trainees across different job levels. The size of the boxes represents the number of trainees at each level, providing a visual representation of the distribution.
-Analysis Potential:
-
-This dashboard allows for the following types of analysis:
-
-Identifying Trainees at Risk: By examining attendance patterns, particularly in conjunction with manager and team filters, trainees with consistently low attendance can be identified for intervention and support.
-Evaluating Training Effectiveness: Comparing attendance and potentially other performance metrics across different models, senior managers, and teams can provide insights into the effectiveness of different training approaches.
-Understanding Skill Gaps: Analyzing the distribution of trainees across job levels can highlight potential skill gaps and inform the design of targeted training programs.
-Promoting Diversity and Inclusion: The gender-wise distribution data can be used to monitor and promote gender balance in the trainee program.
-Overall, this dashboard provides a valuable tool for analyzing trainee data, identifying areas for improvement, and ensuring the success of basic and intermediate-level job trainees. The combination of key metrics, filters, and visualizations allows for a comprehensive understanding of trainee performance and demographics.
+Attendance Tracking and Improvement: Monitoring attendance rates and patterns across teams and managers can help identify areas where attendance is low and targeted interventions can be implemented.
+Performance Evaluation: While the dashboard primarily focuses on attendance, it provides a basis for understanding trainee engagement. This can be correlated with other performance metrics to get a more holistic view.
+Resource Allocation: Understanding the distribution of trainees across job levels can inform resource allocation for training and development programs.
+Diversity Analysis: The gender distribution data can be used to track and promote diversity within the trainee program.
+Identifying Trends and Patterns: By using the filters, analysts can identify trends in attendance and potentially correlate them with other factors like team, manager, or job level.
+Overall, this dashboard serves as a valuable tool for program administrators and managers to monitor, analyze, and improve the effectiveness of basic and intermediate job training programs. It provides a clear and concise overview of key metrics and allows for in-depth exploration of specific segments of the trainee population. The combination of filters and visualizations makes it easy to identify areas of strength and weakness and to make data-driven decisions to enhance the training experience and outcomes.
